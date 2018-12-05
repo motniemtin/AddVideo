@@ -1,8 +1,8 @@
 Class for Midi file,
 Help to convert midi to txt format, caculator midi duration, convert type 0 <--> type 1
 
-<h1>Install</h1>
-<div>composer require motniemtin/midiclass</div>
+***Install***
+****composer require motniemtin/midiclass****
   
 <h1>Use</h1>
 <div>
