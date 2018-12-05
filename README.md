@@ -1,5 +1,4 @@
-Class for Midi file,
-Help to convert midi to txt format, caculator midi duration, convert type 0 <--> type 1
+Class for Freescores Add video,
 
 ***Install***
 ****composer require motniemtin/addvideo****
